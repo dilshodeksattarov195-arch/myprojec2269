@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carteender",
+        "uuid": 5559050,
+        "checksum": "7ly9h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
